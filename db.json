@@ -1,0 +1,177 @@
+{
+    
+    
+    "inicio":
+        {
+            "spanish":"Disfruto la lectura, me gusta la música, salir a caminar al aire libre y la buena comida; me siento feliz compartiendo en familia. Siempre estoy aprediendo nuevas cosas, me apasiona el aprendizaje. Soy esforzado, me considero una persona resiliente, autodidacta, con capacidades para liderar, pero tambien para seguir instrucciones",
+            "english":"I enjoy reading books, I also like listening to music, walk outdoors, I feel happy sharing time with my family and offcourse eating a good food. I am always trying to learn new things, I am a self-taught person and found web development as my passion, I do my best every day, I consider my self as a leader but also as a follower when it is required"
+        }
+    ,"perfil":
+        {"spanish":"soy tecnólogo en análisis y desarrollo de sistemas de información del SENA (titulación pendiente). Desarrollador web con un amplio conocimiento en html5, css3, javascrip, también tengo conocimientos en react y tailwind, en la parte del back-end tengo conocimientos básicos en java, springboot, MySQL. Como metodología ágil he utilizado scrum, manejo repositorios con GitHub, herramientas como Jira, Trello y Figma. Mi nivel de inglés es B1, de acuerdo al marco común europeo ",
+         "english":"I am a technologist in information systems analysis and development from SENA (degree pending), web developer with a goog knowledge about html5, css3, javascript, I also can handle react and tailwind, in back-end technologies I have basic knowledge about java, springboot, MySQL. I have used  scrum as an agile methodology, I also can handle GitHub, something abouth Jira, Trello and Figma, my English level is B1 according to the MCER."}   
+    
+        
+    ,
+    "estudios":{
+        "spanish":"Tecnólogo en análisis y desarrollo de sistemas de información, realicé un diplomado en desarrollo web del Ministerio de las TIC de Colombia con la Universidad Sergio Arboleda. También el curso de desarrollo web de Oracle y Alura-latam (ONE). Hice el diplomado de React de la Fundación Internacional María Luisa de Moreno en convenio con la institución universitaria tecnológico de Antioquia. Actualmente estoy estudiando en la escuela de desarrollo web de Platzi. Tengo cursos en Html5, Css3, Javascript, Manipulación del DOM, grid layout, flex layout, animaciones css, manipulación de arrays en js, manejo profesional del estado con react, así como en tailwindcss, java, MySQL, springboot y otros cursos",
+        "english":"Technologist in analysis and development of information systems, I did the certified course in web development of the Ministry of ICT of Colombia with the Sergio Arboleda University, and also the web development course of Oracle and Alura-latam (ONE), I did the certified course of React at the María Luisa de Moreno International Foundation together with the technological university institution of Antioquia and I am currently studying in the web development school in Platzi. I have courses in Html5, Css3, Javascript, DOM manipulation, grid layout, flex layout, css animations, manipulation of arrays in js, professional management of the state with react, as well as tailwindcss, java, MySQL, springboot and many other certified courses"
+    },
+    "experiencia":{
+        "spanish":"Desde el año 2019 inicié mi aprendizaje en desarrollo de software con c++, html5 y css3. Para el año 2020 empecé a desarrollar mis primeras aplicaciones, siendo Java y Python mis primeros lenguajes, a finales de ese año mi inclinación hacia el frontend fue evidente, enfocando todos mis esfuerzos por incrementar mis conocimientos en Html5 y Css3, así como por aprender muy bien Javascript, siendo el año 2020 el inicio de mi carrera como frontend realizando algunos proyectos independientes los cuales te invito a  ver en la sección de portafolio. Paso a paso he ido incrementando mi conocimiento en nuevas tecnologías como React y Tailwindcss lo que ha creado un afianzamiento en mis conocimientos previos, esto hace que sean algo más de 3 años de experiencia en el desarrollo web",
+        "english":"I started my learning in software development with c++, html5 and css3 in 2019, by 2020 I started to develop my first applications being Java and Python my first languages, at the end of this year I started to prefer frontend focusing all my efforts to increase my knowledge in Html5 and Css3, as well as to learn Javascript very well, being this year, 2020, the beginning of my career as frontend doing some independent projects which I invite you to see in the profolio section, step by step I have been increasing my knowledge in new technologies such as React and Tailwindcss which has created a strengthening in my previous knowledge, this makes more than 3 years of experience in web development."
+    },
+    "maquetacion":[
+        {
+            "id":"1",
+            "nombre":"Proyecto Lego",
+            "name":"Lego project",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/lego.webp?alt=media&token=11c1ea1e-c2bb-437a-8d52-d2962ecbd9a6",
+            "descripcion":"Maquetación web  con animaciones css y flex-layout",
+            "description":"Web layout with css animations and flex-layout ",
+            "sitio":"https://gilbertardila.github.io/lego_project/src/index.html",
+            "video":""
+        },
+        {
+            "id":"2",
+            "nombre":"BatataBit",
+            "name":"BatataBit",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/batata.webp?alt=media&token=11e25e87-10eb-428e-82cb-e3b79f45f2ac",
+            "descripcion":"Maquetación web  con flex-layout, grid-layout, mobile first",
+            "description":"Mobile first layout with flex-layout and grid-layout ",
+            "sitio":"https://batatabit-beta.vercel.app/",
+            "video":""
+        },
+        {
+            "id":"3",
+            "nombre":"Blog",
+            "name":"Blog",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/blog.webp?alt=media&token=c9df5b9d-bf80-4ecd-b900-4414499f8d97",
+            "descripcion":"Tenemos varias páginas simulando un blog personal",
+            "description":"Here we have several pages simulating a personal blog ",
+            "sitio":"https://blog-brown-three.vercel.app/index.html",
+            "video":""
+        },
+        {
+            "id":"4",
+            "nombre":"Clon de Google",
+            "name":"Google clon",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/google-clon.webp?alt=media&token=83d381f1-e24b-4c6a-b9c6-966d84e98b40",
+            "descripcion":"Hicimos un clon de la página principal del buscador Google",
+            "description":"We made a clone of the Google search engine home page",
+            "sitio":"https://gilbertardila.github.io/google_clone/",
+            "video":""
+        },
+        {
+            "id":"5",
+            "nombre":"Mini-alura",
+            "name":"Alura-mini",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/mini-alura.webp?alt=media&token=f49e5234-a5cf-46ec-9b2e-c6eb01eac61b",
+            "descripcion":"Sitio web clon de la página pricipal de alura-latam ",
+            "description":"Web site clone of aluta-latam web site",
+            "sitio":"https://alura-clon.vercel.app/",
+            "video":""
+        },
+        {
+            "id":"6",
+            "nombre":"Restauranre",
+            "name":"Restorant",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/restaurant.webp?alt=media&token=4b65a5bf-319a-4818-a438-1b1dfb13dead",
+            "descripcion":"Simulamos la página principal de un restaurante ",
+            "description":"We simulate the home page of a restaurant",
+            "sitio":"https://gridlayoutrestauratpage.vercel.app/",
+            "video":""
+        }
+    ],
+    "vanila":[
+        {
+            "id":"1",
+            "nombre":"Fashion Step",
+            "name":"Fashion Step",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/fashion.webp?alt=media&token=8c9eaf77-4e1a-4d91-9f4b-767171c4c0fd",
+            "descripcion":"Este es un sitio web presentado al SENA como parte del proyecto de grado, como backend usamos java, springboot y MySQL",
+            "description":"This is a website submitted to SENA as part of a degree project. We use java, springboot y MySQL as a backend",
+            "sitio":"",
+            "video":"https://youtu.be/TIAlkqJOHbk"
+        }, {
+            "id":"2",
+            "nombre":"Clon de Trello",
+            "name":"Trello clone",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/trello.webp?alt=media&token=f4eed080-2fe8-4020-9aa9-d8b9fc94dc8a",
+            "descripcion":"Simulamos un clon de Trello usando las librerias moment, sortable y axios ",
+            "description":"We simulate a Trello clone using the moment, sortable and axios libraries.",
+            "sitio":"",
+            "video":"https://youtu.be/7BxwCIPT688"
+        }, {
+            "id":"3",
+            "nombre":"Hotel Alura",
+            "name":"Alura Hotel",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/hotel.webp?alt=media&token=8586e85c-7bbc-46ff-b2b3-f769d51781b8",
+            "descripcion":"usando java como backend y MySQL como sistema de gestión de bases de datos recreamos la página de check in de un hotel",
+            "description":"using java as backend and MySQL as database management system, we recreated the check in page of a hotel.",
+            "sitio":"",
+            "video":"https://youtu.be/ngIZJMJpm40"
+        },
+        {
+            "id":"4",
+            "nombre":"Movies+",
+            "name":"Movies+",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/pelis%2B.webp?alt=media&token=f1072044-004a-4ff7-b84b-972466f82c6e",
+            "descripcion":"consumimos una a API pública para mostrar la cartelera de películas en una SPA, usamos router, intersection para hacer carga perezosa de las imagenes, podemos guardar nuestras películas favoritas en una lista, filtar por categorias y ver la aplicación en español o ingles",
+            "description":"we use a public API to show the movie listings in a SPA, we use router, intersection to do lazy loading of images, we can save our favorite movies in a list, filter by categories and view the application in English or Spanish.",
+            "sitio":"https://gilbertardila.github.io/movieAPI/#home",
+            "video":"https://youtu.be/EbJ67xsg_IU"
+        },
+        {
+            "id":"5",
+            "nombre":"Star Wars Geek",
+            "name":"Star Wars Geek",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/geek.webp?alt=media&token=28858303-831a-447d-a10a-679da75cd3b5",
+            "descripcion":"En esta página simulamos una tienda, enfocada al administrador del sitio, creamos un CRUD, con la opción de poner o cambiar la imagen del producto, hay la opción de arrastrar la imagen o buscarla en las carpetas de archivos del ordenador; usamos base64 para convertir las imagenes, utilizamos json-server como fakeAPI",
+            "description":"In this page we simulate a store, focused on the site administrator, we create a CRUD, with the option to put or change the image of the product, there is the option to drag the image or search for it in the folders of files on the computer; we use base64 to convert the images, we use json-server as fakeAPI",
+            "sitio":"https://geek-starwars.netlify.app",
+            "video":"https://youtu.be/fEAob8wyxH0"
+        }
+    ],
+    "react":[
+        {
+            "id":"1",
+            "nombre":"Tarjetas de usuaios",
+            "name":"Users Cards",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/cards.webp?alt=media&token=844ab4c5-6abf-4364-9a41-b9e028bbf89b",
+            "descripcion":"Usamos la API pública de randonuser para mostrar una tarjeta de usuario con imagen, nombre, email y teléfono, utilizamos consultas http con axios",
+            "description":"We use randonuser's public API to display a user card with image, name, email and phone, we use http´s require with axios",
+            "sitio":"https://superb-swan-0d810c.netlify.app",
+            "video":""
+        },
+        {
+            "id":"2",
+            "nombre":"códigos de seguridad",
+            "name":"Security codes",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/codigos.webp?alt=media&token=c21118cf-11b9-4903-a903-b9b3b29db2a4",
+            "descripcion":"Comparamos la funcionalidad entre clases como componentes y funciones como componentes, utilizamos useReducer, useEffect, action creators, action types, código imperativo, código declarativo, estados independientes, estados compuestos, los estilos los creamos con tailwindcss",
+            "description":"We compare the functionality between classes as components and functions as components, we use useReducer, useEffect, action creators, action types, imperative code, declarative code, independent states, compound states, styles are created with tailwindcss.",
+            "sitio":"https://security-codes.netlify.app",
+            "video":""
+        }, {
+            "id":"3",
+            "nombre":"Heroes Marvel/Dc",
+            "name":"Marvel/Dc heroes",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/heroes.webp?alt=media&token=8de40ecc-536e-4a4f-bf1d-a60c7995e56b",
+            "descripcion":"usamos json-server como fakeAPI, desplegamos la API en netifly, las imagenes las consumimos desde otra API en Heroku, usamos axios para consumir y mostrar las imágenes y textos con parametros query ",
+            "description":"we use json-server as fakeAPI, we deploy the API in netifly, we consume the images from another API in Heroku, we use axios to consume and display the images and text with query parameters ",
+            "sitio":"https://marvel-dc-heroes.netlify.app",
+            "video":""
+        },
+        {
+            "id":"4",
+            "nombre":"Lista de que haceres",
+            "name":"Todo list",
+            "imagen":"https://firebasestorage.googleapis.com/v0/b/portafolio-ca9e0.appspot.com/o/todo.webp?alt=media&token=38814b22-091c-49bc-8e08-d0a6e85b885e",
+            "descripcion":"con useState, useEffect, custonHooks y otras técnicas creamos esta aplicación que nos permite crear tareas con la fecha de inicio, marcarlas como hechas con la fecha de finalización, borrarlas, filtrar las tareas con un buscador,etc",
+            "description":"with useState, useEffect, custonHooks and other techniques we created this application that allows us to create tasks with the init date, mark them as done with the finish date, delete them, filter the tasks with a search engine, etc.",
+            "sitio":"https://storied-conkies-87284e.netlify.app",
+            "video":""
+        }
+    ]
+    
+}
